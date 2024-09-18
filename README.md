@@ -1,1 +1,0 @@
-# docs-trezor-suite-app.github.io
